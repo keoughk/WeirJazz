@@ -18,8 +18,9 @@ email: jshobbs413@charter.net
 description: >- # this means to ignore newlines until "baseurl:"
   Weir River Jazz Ware Ma. band
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://weirriverjazz.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.weirriverjazz.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  keoughk
+include: _redirects
 
 
 # Build settings
